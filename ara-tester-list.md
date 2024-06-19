@@ -57,6 +57,7 @@ The usefulness of this page depends on testers sharing information and updates; 
 | KelkooGroup | Adtech services for affiliate marketing | From 01.12.2023 | | privacysandbox@kelkoogroup.com |
 | Quantcast | Demand-side platform (DSP) | Testing ongoing | | chrome-privacy-sandbox@quantcast.com |
 | Optable | Adtech services | Testing ongoing | | privacysandbox@optable.co | 
+| Taboola | DSP & SSP | Testing in progress | | privacy-sandbox@taboola.com |
 
 ## Table - Publishers and Advertisers Interested in Testing or Early Adoption
 Companies who may be interested in participating in tests and early adoption opportunities provided by ad tech companies.
